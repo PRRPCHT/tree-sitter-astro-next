@@ -23,7 +23,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tree-sitter-astro-next = "0.1.1"
+tree-sitter-astro-next = "0.1.0"
 ```
 
 ## Contributing
